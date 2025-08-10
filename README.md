@@ -15,7 +15,7 @@ The content is organized into folders, with each folder corresponding to a week 
 
 ## Course Structure & Content
 
-### [Week 1: Introduction to Deep Learning](./Week_1_Introduction_to_DL/)
+### [Week 1: Introduction to Deep Learning](/Week_1_Introduction_to_DL/)
 
 * **Topics:** What a Neural Network is, understanding the drivers behind the current Deep Learning boom (Data, Computation, Algorithms), and the fundamentals of Supervised Learning.
 * **Goal:** Build the high-level intuition for the "what" and "why" of Deep Learning.
